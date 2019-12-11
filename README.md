@@ -7,21 +7,17 @@ Merge sort
 Selection Sort
 
 To compile:
-g++ main.cpp
 
-./a.out CREATEDATA 10,000.txt 10000
+1) g++ main.cpp
 
-./a.out my10000RandomDoubles.txt
+2) ./a.out CREATEDATA 10,000.txt 10000
 
-NOTE: ./a.out CREATEDATA textFileName #ofValues
+3) ./a.out my10000RandomDoubles.txt
+
+NOTE: ./a.out CREATEDATA textFileName #ofValuesToBeSorted
 
 
 
 Resources Used:
-tutorialPoint
 
-geeksforgeeks
-
-youtube videos
-
-hackerearth
+tutorialPoint, geeksforgeeks, youtube videos, hackerearth
