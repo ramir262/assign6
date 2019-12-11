@@ -1,0 +1,20 @@
+Insertion Sort: 
+ Start Time: 0.005718 -  End Time: 0.005793 seconds 
+ Time Elapsed: 7.5e-05
+
+Bubble Sort 
+ Start Time: 0.006063 -  End Time: 0.221315 seconds 
+ Time Elapsed: 0.215252
+
+Selection Sort 
+ Start Time: 0.221623 -  End Time: 0.340417 seconds 
+ Time Elapsed: 0.118794
+
+Quick Sort 
+ Start Time: 0.340656 -  End Time: 0.342318 seconds 
+ Time Elapsed: 0.001662
+
+ Merge Sort 
+ Start Time: 0.342663 -  End Time: 0.344986 seconds 
+ Time Elapsed: 0.002323
+
