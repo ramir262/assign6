@@ -9,7 +9,7 @@ Selection Sort
 To compile:
 g++ main.cpp
 ./a.out CREATEDATA 10,000.txt 10000
-./a.out my400RandomDoubles.txt
+./a.out my10000RandomDoubles.txt
 
 Resources Used:
 tutorialPoint
